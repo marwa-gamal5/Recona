@@ -1,0 +1,7 @@
+home page:
+(Home,About Researches,Login) --> [lucida bright - demibold italic - 40 ] [FFFFFF]
+(About us , Our team , Contact us) --> [lucida bright - demibold italic - 48 ] [ 1B5374 ]
+(Lynch syndrome detection and tissue identification site) --> [Javanese Text - Regular - 36 ] [FFFFFF]
+(We are a group of students from the Department of Bi... , name , pos ) -->[Javanese Text - Regular - 32 ]  [192845 ]
+(أسماءنا , back-end , front-end ] --> [Josefin Slab - Regualr - 28 ] [ 1B5374 ] 
+(location , phone number , colleage website ) --> [Josefin Slab - Bold Italic - 28 ] [ 1B5374 ]
